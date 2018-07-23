@@ -5,3 +5,10 @@ C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723prac
 C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.exe
 C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.pdb
+F:\VS学习\practice\C-practice\0723practice\0723practice\bin\Debug\0723practice.exe.config
+F:\VS学习\practice\C-practice\0723practice\0723practice\bin\Debug\0723practice.exe
+F:\VS学习\practice\C-practice\0723practice\0723practice\bin\Debug\0723practice.pdb
+F:\VS学习\practice\C-practice\0723practice\0723practice\obj\Debug\0723practice.csprojAssemblyReference.cache
+F:\VS学习\practice\C-practice\0723practice\0723practice\obj\Debug\0723practice.csproj.CoreCompileInputs.cache
+F:\VS学习\practice\C-practice\0723practice\0723practice\obj\Debug\0723practice.exe
+F:\VS学习\practice\C-practice\0723practice\0723practice\obj\Debug\0723practice.pdb
