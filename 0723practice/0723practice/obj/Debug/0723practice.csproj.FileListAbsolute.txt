@@ -1,7 +1,0 @@
-C:\Users\Administrator\source\repos\0723practice\0723practice\bin\Debug\0723practice.exe.config
-C:\Users\Administrator\source\repos\0723practice\0723practice\bin\Debug\0723practice.exe
-C:\Users\Administrator\source\repos\0723practice\0723practice\bin\Debug\0723practice.pdb
-C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.csprojAssemblyReference.cache
-C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.exe
-C:\Users\Administrator\source\repos\0723practice\0723practice\obj\Debug\0723practice.pdb
